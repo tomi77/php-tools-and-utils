@@ -1,5 +1,5 @@
 <?php
-class Math {
+class MathUtil {
 	public static function mediana($array) {
 		sort($array);
 		$cnt = count($array);
